@@ -1,0 +1,32 @@
+/* styles.css */
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.left-panel {
+    width: 40%;
+}
+
+.post-section {
+    margin-top: 20px;
+}
+
+#postInput {
+    width: 100%;
+    height: 60px;
+}
+
+#charCount {
+    text-align: right;
+}
+
+.right-panel {
+    width: 55%;
+}
+
+.post {
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+}
